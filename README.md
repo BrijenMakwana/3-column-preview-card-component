@@ -19,7 +19,7 @@
 
 ## Links
 
-- Live Site URL: []()
+- Live Site URL: [https://3-column-preview-card-component-brijen.vercel.app](https://3-column-preview-card-component-brijen.vercel.app)
 
 ## Built with
 
